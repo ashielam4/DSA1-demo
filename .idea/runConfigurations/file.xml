@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="file" type="Java Scratch" singleton="false">
+    <option name="MAIN_CLASS_NAME" value="LinkedListDriver.jar" />
+    <module name="DSA1" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
